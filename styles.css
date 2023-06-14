@@ -7,4 +7,11 @@ background-color: white;
 text-align: center;
 -webkit-text-fill-color: skyblue;
 }
-
+h2 {
+text-align: center;
+-webkit-text-fill-color:skyblue;
+background-color: white;
+}
+a {
+    color:skyblue
+}
