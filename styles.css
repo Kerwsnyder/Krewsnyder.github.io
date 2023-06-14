@@ -3,6 +3,11 @@ body {
 }
 
 h1 {
-font-stretch:expanded;
+background-color: white;
+text-align: center;
+-webkit-text-fill-color: skyblue;
+}
 
+.hidden {
+ -webkit-text-fill-color: skyblue;
 }
